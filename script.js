@@ -36,7 +36,7 @@ function playGame() {
         setintervalID = setInterval(() => {
             randomsq()
 
-        }, 500)
+        }, 800)
         ref = 1;
 
     }
@@ -77,7 +77,7 @@ function playGame() {
             })
 
         }
-    }, 500)
+    }, 800)
 
 
 
