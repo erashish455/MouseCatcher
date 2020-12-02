@@ -1,0 +1,28 @@
+.box {
+    width: 100px;
+    height: 150px;
+    border-style: solid;
+    border-color: black;
+}
+
+.mole {
+    background-image: url('mole.jpg');
+    background-size: cover;
+}
+
+body {
+    background: linear-gradient(to right, #425180 0%, #18db11 100%);
+    overflow: hidden;
+}
+
+h1 {
+    background: cornsilk;
+    color: darkblue;
+    font-family: monospace;
+    font-size: 5rem;
+    border-radius: 1px;
+}
+
+h2 {
+    color: floralwhite;
+}
